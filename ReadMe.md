@@ -3,8 +3,6 @@
 ### 𝐓𝐡𝐞 𝐏𝐫𝐨𝐭𝐚𝐠𝐨𝐧𝐢𝐬𝐭
 
 🔭 I’m currently working on: AI-powered data science projects & creative web projects<br>
-🧑‍🤝‍🧑 I’m looking to collaborate on: AI, Data Science & innovative web projects<br>
-🤝 I’m looking for help with: Advanced AI/ML, GenAI & full-stack development<br>
 🌱 I’m currently learning: Data Science, Machine Learning, GenAI & AI Agents<br>
 💬 Ask me about: Python, Data Science, AI, Video Editing & Creative Design<br>
 ⚡ Fun fact: I’m a Data Science student who also loves turning ideas into visual experiences 🎬
