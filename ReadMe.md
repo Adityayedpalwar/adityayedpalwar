@@ -67,11 +67,3 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=adityayedpalwar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://streak-stats.demolab.com/?user=adityayedpalwar&theme=midnight-purple&hide_border=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=adityayedpalwar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
